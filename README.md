@@ -1,6 +1,6 @@
 # TripAdvisor Hotel Review Analysis: Predicting Reviewer Inlfuence with Machine LearningAnalysis
 
-### The complete analysis report is available in 
+### The complete analysis report is available in [Review Author Influence Report](https://github.com/DungTran-FI/TripAdvisor-Hotel-Review-Analysis-Predicting-Review-Influence-with-Machine-Learning/blob/main/Review%20Author%20Influence%20-%20Report.pdf)
 
 ## Project Overview
 
